@@ -1,0 +1,12 @@
+Adobe After Effects v13.5 Windows 64 render log for project “Untitled Project auto-save 4.aep”
+
+Rendering started on 16/12/2018 at 10:49:33 م
+
+  16/12/2018 10:49:33 م: Starting composition “pres”.
+
+  Output To: C:\Users\5aligy\Desktop\mm\pres.avi  After Effects warning: The file 'C:\Users\5aligy\AppData\Local\Temp\Adobe\After Effects\13.5\Disk Cache - Abdullah.noindex\31\31810bc7-c29e-fcdc-3d1e-60ab000000b4.ADBE ICV.72A875B.AAAAANACAAU=.aecache' could not be found.After Effects warning: The file 'C:\Users\5aligy\AppData\Local\Temp\Adobe\After Effects\13.5\Disk Cache - Abdullah.noindex\0f\0fe8cdf2-399b-9bb5-253f-9b0200000084.ADBE ICV.72A875B.AAAAAOgD6AM=.aecache' could not be found.  16/12/2018 11:12:41 م: Finished composition “pres”.
+
+
+  Total Time Elapsed: 23 Min, 7 Sec
+Log closed on 16/12/2018 at 11:12:41 م
+

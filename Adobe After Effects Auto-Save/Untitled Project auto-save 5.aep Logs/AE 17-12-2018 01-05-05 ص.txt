@@ -1,0 +1,12 @@
+Adobe After Effects v13.5 Windows 64 render log for project “Untitled Project auto-save 5.aep”
+
+Rendering started on 17/12/2018 at 01:05:05 ص
+
+  17/12/2018 01:05:06 ص: Starting composition “cartoon-sun-light-over-blue-sky-with-clouds-background-with-space-for-your-text-or-logo-nice-sunburst-vintage-style-sun-retro-pattern-over-sky-seamless-loop_shy-5b4w__F0000”.
+
+  Output To: C:\Users\5aligy\Desktop\mm\cartoon-sun-light-over-blue-sky-with-clouds-background-with-space-for-your-text-or-logo-nice-sunburst-vintage-style-sun-retro-pattern-over-sky-seamless-loop_shy-5b4w__F0000.avi    17/12/2018 01:15:09 ص: Finished composition “cartoon-sun-light-over-blue-sky-with-clouds-background-with-space-for-your-text-or-logo-nice-sunburst-vintage-style-sun-retro-pattern-over-sky-seamless-loop_shy-5b4w__F0000”.
+
+
+  Total Time Elapsed: 10 Min, 3 Sec
+Log closed on 17/12/2018 at 01:15:10 ص
+

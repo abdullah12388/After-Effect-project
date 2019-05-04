@@ -1,0 +1,12 @@
+Adobe After Effects v13.5 Windows 64 render log for project “Untitled Project auto-save 6.aep”
+
+Rendering started on 17/12/2018 at 02:21:36 ص
+
+  17/12/2018 02:21:36 ص: Starting composition “chs_background_down_another_hallway_by_favoriteartman_d79mo1m”.
+
+  Output To: C:\Users\5aligy\Desktop\mm\chs_background_down_another_hallway_by_favoriteartman_d79mo1m.avi    17/12/2018 02:22:25 ص: Finished composition “chs_background_down_another_hallway_by_favoriteartman_d79mo1m”.
+
+
+  Total Time Elapsed: 49 Seconds
+Log closed on 17/12/2018 at 02:22:26 ص
+

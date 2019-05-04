@@ -1,0 +1,17 @@
+Adobe After Effects v13.5 Windows 64 render log for project “Untitled Project auto-save 2.aep”
+
+Rendering started on 16/12/2018 at 06:04:13 ص
+
+  16/12/2018 06:04:14 ص: Starting composition “AI”.
+
+  Output To: C:\Users\5aligy\Desktop\mm\AI.avi    16/12/2018 06:04:17 ص: Finished composition “AI”.
+
+
+  16/12/2018 06:04:17 ص: Starting composition “sky”.
+
+  Output To: C:\Users\5aligy\Desktop\mm\sky_1.avi    16/12/2018 06:07:07 ص: Finished composition “sky”.
+
+
+  Total Time Elapsed: 2 Min, 54 Sec
+Log closed on 16/12/2018 at 06:07:07 ص
+
